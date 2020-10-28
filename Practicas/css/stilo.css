@@ -1,0 +1,49 @@
+
+*{
+    margin:1em auto;
+    padding: 1em;
+}
+header{
+    background: violet;
+    height:90px;
+    border: 5px solid black;
+   
+}
+
+nav{
+    background: violet;
+   
+    border: 5px solid black;
+}
+
+section{
+    background: brown;
+    border: 5px solid black;
+  
+}
+aside{
+    background: yellow;
+    width:20%;
+    border: 5px solid black;
+    display:inline-block
+}
+
+main{
+    background: blue;
+    width:40%;
+    border: 5px solid black;
+    display:block
+}
+
+
+article{
+    background: yellow;
+    width:90%;
+    border: 5px solid black;
+    display:block 
+}
+footer {
+    background: violet;
+    height:60px;
+    border: 5px solid black;
+}

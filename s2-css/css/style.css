@@ -1,0 +1,43 @@
+* {
+    color: purple;
+    font font-family: Helvetica;
+
+}
+
+header {
+    color: saddlebrown;
+    border: 5px solid red;
+    border-radius:10px;
+
+}
+nav{
+    background-color: rosybrown;
+    border:1px solid greenyellow
+    border-radius:5px;
+}
+
+aside {
+    background-color: grey;
+    border: 1px solid violet;
+    border-radius:5px;
+
+
+}
+
+main{
+    background-color: rgb(112, 17, 17);
+    border: 1px solid purple;
+    border-radius:5px;
+}
+
+article {
+    background-color: rgb(58, 12, 12);
+    border: 1px solid rgb(146, 80, 146);
+    border-radius:5px;
+
+}
+
+footer {
+    border-radius:5px;
+    background-color: salmon;
+}
